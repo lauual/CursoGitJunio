@@ -1,1 +1,4 @@
 Requisitos para empezar el programa
+- Tener instalado el Visual studio
+- Tener instalado el SQL server express
+- Tener instalado el R + R-Studio
